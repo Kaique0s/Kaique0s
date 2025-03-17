@@ -2,7 +2,7 @@
 
 **`Web Developer`**
 
-"Olá, me chamo Kaique. Sou apaixonado pelo universo de tudo que envolve Software e Hardware. Tenho 21 anos e atualmente moro no Distrito Federal (DF) / Goiás. Terminei o ensino médio em escola pública no DF. Nestes anos, nunca me faltou vontade de aprender, de procurar formas de expandir e demonstrar minha criatividade com confiança no que faço e organização em meus projetos."
+"Olá, me chamo Kaique. Sou apaixonado pelo universo de tudo que envolve Software e Hardware. Tenho 21 anos e atualmente moro no Distrito Federal (DF) / Goiás. Terminei o ensino médio em escola pública no DF, e estou cursando o Técnologo em Análise e Desenvolvimento de Sistemas (ADS). Nestes anos, nunca me faltou vontade de aprender, de procurar formas de expandir e demonstrar minha criatividade com confiança no que faço e organização em meus projetos."
 **"Criatividade é apenas conectar as coisas" (Steve Jobs)**
 
 
